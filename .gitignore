@@ -8,6 +8,11 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+files
+models
+test1
+train
+validation
 build/
 develop-eggs/
 dist/
@@ -102,3 +107,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+*.zip
